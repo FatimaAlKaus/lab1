@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberTypeQualifier", "NumberTypeQualifier\NumberTypeQualifier.csproj", "{75B78B08-C83C-456B-ACF9-2395E18D5D23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberTypeQualifierTests", "NumberTypeQualifierTests\NumberTypeQualifierTests.csproj", "{A11561A9-13DB-45DC-A2E3-F2799B1218B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75B78B08-C83C-456B-ACF9-2395E18D5D23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75B78B08-C83C-456B-ACF9-2395E18D5D23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75B78B08-C83C-456B-ACF9-2395E18D5D23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75B78B08-C83C-456B-ACF9-2395E18D5D23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A11561A9-13DB-45DC-A2E3-F2799B1218B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A11561A9-13DB-45DC-A2E3-F2799B1218B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A11561A9-13DB-45DC-A2E3-F2799B1218B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A11561A9-13DB-45DC-A2E3-F2799B1218B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E38379D-8A5A-4AB2-8FF9-A63771359F7C}
+	EndGlobalSection
+EndGlobal
